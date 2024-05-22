@@ -25,5 +25,5 @@ There are two places where to create an issue: a) Website Project, and b) Websit
 
 3. On the right column tabs, select `Website` as the Project. That will allow the issue to appear on the Website Project Management tool. This can happen before or after creating the issue on the `Website` Repository.
 
-4. Inmediately after creating the issue, **assign** it a `status` (by default it is `Unassigned`). This is done on the right column under Projects. `Website` should be displaying. Select `Backlog`. See for example: [OPeNDAP/Website/issue#3](https://github.com/OPENDAP/Website/issues/3).
+4. Inmediately after creating the issue, **assign** it a `status` (by default it is `Unassigned`). This is done on the right column under Projects. `Website` should be displaying. Select `Backlog`. See for example: [OPeNDAP/Website/issue#3](https://github.com/OPENDAP/Website/issues/3) (the `Project status` of this issue may change over time).
 
