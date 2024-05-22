@@ -1,8 +1,10 @@
-# Website
+## What is this?
 
-This is an public empty repository for managing the Website project under OPeNDAP/Projects. The Project is private and to get access you will need to be granted access. The Website project can be accessed directly from this repository, and can be found under `Projects`, or you can access the Project directly from [OPeNDAP/Project/Website](https://github.com/orgs/OPENDAP/projects/2)
+This is an public empty repository for creating/closing issues, regarding the status of the draft website. The [Website Project](https://github.com/orgs/OPENDAP/projects/2) lives on a private Project Managing tool that one needs to get proper access. Currently, only the OPeNDAP Website Team has access to it.
 
-# Quickstart
+
+
+## Quickstart
 
 There are two places where to create an issue: a) Website Project, and b) Website Repo. It is recommended to create the issue directly on the [Website Repo](https://github.com/OPENDAP/Website). Below are the recommended instructions:
 
