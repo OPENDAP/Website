@@ -10,14 +10,16 @@ There are two ways to create issue: a) on the Website Project, and b) on the Web
 1. Under [Website/issues](https://github.com/OPENDAP/Website/issues), select New Issue (green icon).
 2. Per request, consider the following template (you can copy-paste the text - simply remove tabs).
 
-    ## Description
-    Brief 1 - 2 sentence description of the problem.
+```
+### Description
+Brief 1 - 2 sentence description of the problem.
 
-    ## Visual Aid
-    Screenshot of the appropriate area.
+### Visual Aid
+Screenshot of the appropriate area.
 
-    ## Page URL 
-    where the issue was found. See **NOTE** below
+### Page URL 
+where the issue was found. See **NOTE** below
+```
 
 3. On the right column tabs, select `Website` as the Project. That allows the issue to appear on the Website Project. This can happen before or after creating the issue on the `Website` Repo.
 
